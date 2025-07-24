@@ -16,7 +16,7 @@ either version 3 of the License, or (at your option) any later version.
 
 - [Lanchon](https://github.com/Lanchon): Initial version.
 - [SpiritCroc](https://github.com/SpiritCroc): Added runtime permission requests.
-- [IsHacker](https://github.com/IsHacker003)
+- [IsHacker](https://github.com/IsHacker003): Author of this fork.
 
 ### Download
 
