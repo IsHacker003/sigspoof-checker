@@ -6,6 +6,8 @@ and reports whether it succeeds. Simply launch the app to see the result of the 
 You can find more information about signature spoofing
 [here](https://github.com/microg/android_packages_apps_GmsCore/wiki/Signature-Spoofing).
 
+This is a forked version updated to use the new `signingInfo` function and supports newer android versions.
+
 This program is free software: you can redistribute it and/or modify it under the
 terms of the GNU General Public License as published by the Free Software Foundation,
 either version 3 of the License, or (at your option) any later version.
@@ -14,8 +16,8 @@ either version 3 of the License, or (at your option) any later version.
 
 - [Lanchon](https://github.com/Lanchon): Initial version.
 - [SpiritCroc](https://github.com/SpiritCroc): Added runtime permission requests.
+- [IsHacker](https://github.com/IsHacker003)
 
 ### Download
 
-[<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="80"
-    >](https://f-droid.org/packages/lanchon.sigspoof.checker/)
+APK available in releases.
