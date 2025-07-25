@@ -8,6 +8,8 @@ You can find more information about signature spoofing
 
 This is a forked version updated to use the new `signingInfo` function and supports newer android versions.
 
+### License
+
 This program is free software: you can redistribute it and/or modify it under the
 terms of the GNU General Public License as published by the Free Software Foundation,
 either version 3 of the License, or (at your option) any later version.
