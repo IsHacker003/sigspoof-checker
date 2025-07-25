@@ -20,4 +20,4 @@ either version 3 of the License, or (at your option) any later version.
 
 ### Download
 
-APK available in [releases](https://github.com/IsHacker003/sigspoof-checker/releases).
+APK will soon be available in [releases](https://github.com/IsHacker003/sigspoof-checker/releases).
