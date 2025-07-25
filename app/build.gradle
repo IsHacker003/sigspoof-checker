@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 36
     defaultConfig {
-        applicationId "lanchon.sigspoof.checker"
+        applicationId "com.ishacker.sigspoofchecker"
         minSdkVersion 14
         targetSdkVersion 36
         versionCode 3
@@ -16,7 +16,7 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
-    namespace 'lanchon.sigspoof.checker'
+    namespace 'com.ishacker.sigspoofchecker'
 }
 
 dependencies {
