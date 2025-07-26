@@ -6,7 +6,7 @@ and reports whether it succeeds. Simply launch the app to see the result of the 
 You can find more information about signature spoofing
 [here](https://github.com/microg/android_packages_apps_GmsCore/wiki/Signature-Spoofing).
 
-This is a forked version updated to use the new `signingInfo` function and supports newer android versions.
+This is a forked version updated to use the new `signingInfo` method and supports newer android versions.
 
 ### License
 
